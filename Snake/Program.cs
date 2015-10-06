@@ -163,7 +163,7 @@ namespace Snake
                     }
                     Console.Write(" ");
 
-                    Thread.Sleep(75);
+                    Thread.Sleep(100);
                 }
                 else
                     Thread.Sleep(200);
